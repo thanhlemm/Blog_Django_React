@@ -1,12 +1,9 @@
 # Blog_Django_React
-**Blog** The blog project using React and Django is a comprehensive web application that allows users to post, edit, and manage blog posts. This project combines React for the frontend, providing a smooth and interactive user interface, and Django for the backend, ensuring robust and secure data processing.
+**Blog** project using React and Django is a comprehensive web application that allows users to post, edit, and manage blog posts. This project combines React for the frontend, providing a smooth and interactive user interface, and Django for the backend, ensuring robust and secure data processing.
 
 ## 📋 Table of Contents
 
 - [Features](#features)
-  - [👤 Applicant](#-applicant)
-  - [🏢 Recruiter](#-recruiter)
-  - [🛠️ Admin](#%EF%B8%8F-admin)
 - [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
 - [📄 License](#-license)
 - [📫 Contact](#-contact)
